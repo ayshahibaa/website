@@ -1,0 +1,177 @@
+/* stylesheet*/
+body{
+  margin:0;
+  display: block;
+  text-align: center;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 1.5em;
+
+}
+h1{
+  color:#66BFBF;
+  margin-bottom: 0;
+  font-family: 'Lobster', cursive;
+  font-size: 2.5rem;
+}
+h2{
+  font-family: 'Alata', sans-serif;
+
+}
+
+.bgcolor1{
+  background-color: #e4f9f5;
+  height:558px;
+  width:100%;
+  padding-top: 100px;
+  position: relative;
+}
+.middle-container{
+  background-color: #61c0bf;
+  height: auto;
+}
+.bottom-container{
+  background-color: #222831;
+  height: auto;
+}
+.contact-me{
+  color:white;
+}
+
+img {
+  display:inline;
+}
+.top-cloud{
+  position: absolute;
+  right:300px;
+
+}
+.bottom-cloud{
+  position: absolute;
+  left:300px;
+}
+.mountain{
+    margin-top: 40px;
+}
+.webicon{
+
+  width:20%;
+  float:left;
+  padding-right: 20px;
+}
+.bookicon{
+  width:20%;
+  float:right;
+  padding-left: 20px;
+  padding-top: 20px;
+}
+.me{
+  padding-top:30px;
+  width:150px;
+  height:150px;
+}
+.contact-me{
+  padding-top: 30px;
+}
+hr{
+  border-style: none;
+  background-color: black;
+  margin:0;
+}
+a{
+  text-decoration: none;
+  color:#61c0bf;
+}
+a:hover{
+  text-decoration:none;
+  color: white;
+}
+.links{
+  text-si
+}
+.pin-icon{
+  height:30px;
+  width:30px;
+  margin-right: 5%;
+}
+.ig-icon{
+  height:30px;
+  width:30px;
+
+}
+.footer-link{
+  color:#bad7df;
+  font-family: 'Alata', sans-serif;
+}
+.opening{
+  line-height: 2rem;
+  font-weight: normal;
+}
+.skill-row{
+  width: 50%;
+  margin: auto ;
+  margin-top:50px;
+  text-align: left;
+
+}
+.copy{
+  color:white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.btn {
+	box-shadow:inset 0 1px 3px 0 #276873;
+	background:linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
+	background-color:#599bb3;
+	border-radius:5px;
+	border:1px solid #29668f;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	font-weight:bold;
+	padding:18px 40px;
+	text-decoration:none;
+	text-shadow:0 -1px 0 #3d768a;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
+	background-color:#408c99;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+
+
+
+.bgcolor3{
+  background-color: #F6F6F6;
+  height:400px;
+  width:100%;
+  }
+.bgcolor4{
+  background-color: #8785a2;
+  height:300px;
+  width:100%;
+  border-color: black;
+  border-style: solid;
+  border-width: 2px 0 0 0;
+}
